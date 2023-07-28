@@ -3,10 +3,12 @@
 </script>
 
 <template>
-<div class="nav">
-  <router-link to="/">Home</router-link>
+
+  <nav>
+    <router-link to="/">Home</router-link>
   <router-link to="/About">About</router-link>
-</div>
+  </nav>
+
  <router-view/>
 
 </template>

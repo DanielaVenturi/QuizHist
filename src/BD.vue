@@ -226,7 +226,7 @@ const pergunta = [
         correta: "no",
      },
      
-    ]
+    
 },
 {
     id:8,
